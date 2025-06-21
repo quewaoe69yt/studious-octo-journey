@@ -38,3 +38,16 @@
 [12:58:43] [Server thread/INFO]: Gave 30 experience levels to Sooofi16
 [12:59:47] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
 [12:59:47] [Server thread/INFO]: Sooofi16 left the game
+[13:00:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:00:09] [Server thread/INFO]: stopstop<--[HERE]
+[13:00:14] [Server thread/INFO]: Stopping the server
+[13:00:14] [Server thread/INFO]: Stopping server
+[13:00:14] [Server thread/INFO]: Saving players
+[13:00:14] [Server thread/INFO]: Saving worlds
+[13:00:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:overworld
+[13:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:the_end
+[13:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:the_nether
+[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (las epicas aventuras de wonderwoman y sus amantes): All chunks are saved
+[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
