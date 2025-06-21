@@ -1,197 +1,34 @@
-[00:51:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:51:28] [ServerMain/INFO]: Loaded 1373 recipes
-[00:51:28] [ServerMain/INFO]: Loaded 1484 advancements
-[00:51:28] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[00:51:28] [Server thread/INFO]: Loading properties
-[00:51:28] [Server thread/INFO]: Default game type: SURVIVAL
-[00:51:28] [Server thread/INFO]: Generating keypair
-[00:51:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:51:28] [Server thread/INFO]: Using epoll channel type
-[00:51:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:51:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:51:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:51:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:51:28] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[00:51:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:51:34] [Server thread/INFO]: Time elapsed: 5422 ms
-[00:51:34] [Server thread/INFO]: Done (5.797s)! For help, type "help"
-[00:51:35] [Server thread/INFO]: Fransokio[/127.44.22.104:51673] logged in with entity id 27 at (-368.4488996627442, 86.9375, -1412.4245216541126)
-[00:51:35] [Server thread/INFO]: Fransokio joined the game
-[00:51:42] [Server thread/INFO]: Sooofi16[/127.6.72.130:39785] logged in with entity id 350 at (-441.50203581930924, 173.9375, -1603.3760323239937)
-[00:51:43] [Server thread/INFO]: Sooofi16 joined the game
-[00:52:41] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:59163] logged in with entity id 817 at (-387.7889297937168, 92.0, -1424.3481515723786)
-[00:52:41] [Server thread/INFO]: Oars_Ryuma joined the game
-[00:52:52] [Server thread/INFO]: Villager cru['Villager'/367, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-490.95, y=102.00, z=-1609.66] died, message: 'Villager was slain by Zombie'
-[01:03:04] [Server thread/INFO]: Oars_Ryuma has made the advancement [Take Aim]
-[01:10:51] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> aun no
-[01:10:55] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> esperame
-[01:11:10] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> pipilin
-[01:11:29] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> activen el tp
-[01:16:42] [Server thread/INFO]: Villager cru['Cleric'/57, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-413.35, y=111.00, z=-1456.64] died, message: 'Cleric was slain by Zombie'
-[01:16:48] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[01:16:48] [Server thread/INFO]: Fransokio left the game
-[01:27:45] [Server thread/INFO]: Oars_Ryuma has made the advancement [Enchanter]
-[01:30:24] [Server thread/INFO]: Sooofi16 has made the advancement [The Parrots and the Bats]
-[01:52:11] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[01:52:11] [Server thread/INFO]: Sooofi16 left the game
-[01:52:33] [Server thread/INFO]: Sooofi16[/127.6.72.130:43003] logged in with entity id 20285 at (-811.6999999880791, -46.0, -1588.300000011921)
-[01:52:33] [Server thread/INFO]: Sooofi16 joined the game
-[01:56:04] [Server thread/INFO]: Gioasdasd[/127.180.63.181:50387] logged in with entity id 22223 at (-434.3354676464092, 119.0, -1592.3187391342512)
-[01:56:04] [Server thread/INFO]: Gioasdasd joined the game
-[01:59:36] [Server thread/INFO]: Fransokio[/127.44.22.104:50263] logged in with entity id 23468 at (-392.9286413058667, 102.0, -1452.8771903979116)
-[01:59:36] [Server thread/INFO]: Fransokio joined the game
-[02:04:14] [Server thread/INFO]: Villager cru['Villager'/16339, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-440.83, y=108.00, z=-1544.65] died, message: 'Villager was slain by Zombie'
-[02:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-19, y=108, z=-1339} iw{x=-19, y=108, z=-1338}
-[02:05:59] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
-[02:05:59] [Server thread/INFO]: Oars_Ryuma left the game
-[02:07:35] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[02:07:35] [Server thread/INFO]: Sooofi16 left the game
-[02:07:36] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:07:36] [Server thread/INFO]: Fransokio left the game
-[02:07:37] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
-[02:07:37] [Server thread/INFO]: Gioasdasd left the game
-[02:07:43] [Server thread/INFO]: Gioasdasd[/127.180.63.181:48373] logged in with entity id 28307 at (-400.37656403189874, 38.0, -1520.6439113802637)
-[02:07:43] [Server thread/INFO]: Gioasdasd joined the game
-[02:07:46] [Server thread/INFO]: Fransokio[/127.44.22.104:60277] logged in with entity id 28688 at (270.9230890206696, 110.0, -1331.6985441704783)
-[02:07:46] [Server thread/INFO]: Fransokio joined the game
-[02:07:50] [Server thread/INFO]: Sooofi16[/127.6.72.130:51433] logged in with entity id 29048 at (-421.5680200694545, 118.0, -1497.7640544948772)
-[02:07:50] [Server thread/INFO]: Sooofi16 joined the game
-[02:07:55] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:07:55] [Server thread/INFO]: Fransokio left the game
-[02:08:08] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
-[02:08:08] [Server thread/INFO]: Gioasdasd left the game
-[02:08:13] [Server thread/INFO]: [Not Secure] <Sooofi16> w
-[02:08:17] [Server thread/INFO]: Fransokio[/127.44.22.104:39243] logged in with entity id 29313 at (266.84861288543055, 110.0, -1338.861230242343)
-[02:08:17] [Server thread/INFO]: Fransokio joined the game
-[02:08:18] [Server thread/INFO]: Gioasdasd[/127.180.63.181:46017] logged in with entity id 29465 at (-409.30565761679355, 39.875, -1520.8324382376768)
-[02:08:18] [Server thread/INFO]: Gioasdasd joined the game
-[02:08:33] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[02:08:33] [Server thread/INFO]: Sooofi16 left the game
-[02:09:27] [Server thread/INFO]: Unknown item 'minecraft:iron'
-[02:09:27] [Server thread/INFO]: ...Gioasdasd iron 1<--[HERE]
-[02:09:45] [Server thread/INFO]: Unknown item 'minecraft:iron'
-[02:09:45] [Server thread/INFO]: ...gioasdasd iron<--[HERE]
-[02:10:18] [Server thread/INFO]: Unknown item 'minecraft:iron'
-[02:10:18] [Server thread/INFO]: ...gioasdasd iron 1<--[HERE]
-[02:11:18] [Server thread/INFO]: Incorrect argument for command
-[02:11:18] [Server thread/INFO]: xp gioasdasd 100<--[HERE]
-[02:12:32] [Server thread/INFO]: Gave 1 [Iron Ingot] to Gioasdasd
-[02:13:41] [Server thread/INFO]: Sooofi16 (/127.6.72.130:43449) lost connection: Disconnected
-[02:14:03] [Server thread/INFO]: Incorrect argument for command
-[02:14:03] [Server thread/INFO]: tp fra/tp fransokio to gioasdasd<--[HERE]
-[02:14:40] [Server thread/INFO]: Villager cru['Librarian'/28389, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-413.85, y=119.74, z=-1599.42] died, message: 'Librarian tried to swim in lava'
-[02:15:03] [Server thread/INFO]: Teleported Fransokio to Gioasdasd
-[02:17:13] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:39545] logged in with entity id 33372 at (-18.483286876863005, 103.0, -1339.300000011921)
-[02:17:13] [Server thread/INFO]: Oars_Ryuma joined the game
-[02:17:18] [Server thread/INFO]: Oars_Ryuma drowned
-[02:17:58] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:05] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:07] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:09] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:10] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:11] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:13] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:14] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:16] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:17] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:18] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:20] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:21] [Server thread/INFO]: Teleported Oars_Ryuma to Oars_Ryuma
-[02:18:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:18:21] [Server thread/INFO]: <--[HERE]
-[02:18:37] [Server thread/INFO]: Sooofi16[/127.6.72.130:37927] logged in with entity id 34328 at (-438.69999998807907, 119.0, -1599.581164183051)
-[02:18:37] [Server thread/INFO]: Sooofi16 joined the game
-[02:19:17] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:19:17] [Server thread/INFO]: Fransokio left the game
-[02:19:19] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
-[02:19:19] [Server thread/INFO]: Oars_Ryuma left the game
-[02:19:39] [Server thread/INFO]: Fransokio[/127.44.22.104:59041] logged in with entity id 34854 at (-172.02724856129507, 110.0, -1490.2651964077506)
-[02:19:39] [Server thread/INFO]: Fransokio joined the game
-[02:19:42] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:34495] logged in with entity id 35140 at (-119.42763575978086, 104.0, -1485.679149951088)
-[02:19:42] [Server thread/INFO]: Oars_Ryuma joined the game
-[02:22:43] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> -25 106 -1341
-[02:22:47] [Server thread/INFO]: [Not Secure] <Sooofi16> voy
-[02:24:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-17, y=108, z=-1342} iw{x=-16, y=108, z=-1343}
-[02:24:38] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-17, y=106, z=-1342} iw{x=-17, y=107, z=-1341}
-[02:27:40] [Server thread/INFO]: Oars_Ryuma tried to swim in lava
-[02:31:15] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:31:15] [Server thread/INFO]: Fransokio left the game
-[02:31:23] [Server thread/INFO]: Fransokio[/127.44.22.104:57271] logged in with entity id 42314 at (250.22205801703655, -52.0, -1518.385682995082)
-[02:31:23] [Server thread/INFO]: Fransokio joined the game
-[02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=386, y=-6, z=-1438} iw{x=386, y=-6, z=-1437}
-[02:44:24] [Server thread/INFO]: Oars_Ryuma was blown up by Creeper
-[02:45:27] [Server thread/INFO]: Villager cru['Villager'/28315, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-470.30, y=114.00, z=-1531.30] died, message: 'Villager was slain by Zombie'
-[02:45:48] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[02:45:48] [Server thread/INFO]: Sooofi16 left the game
-[02:45:49] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
-[02:45:49] [Server thread/INFO]: Oars_Ryuma left the game
-[02:45:52] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:45:52] [Server thread/INFO]: Fransokio left the game
-[02:46:08] [Server thread/INFO]: Fransokio[/127.44.22.104:59151] logged in with entity id 51534 at (396.88091141109743, -53.0, -1359.3390471880718)
-[02:46:08] [Server thread/INFO]: Fransokio joined the game
-[02:46:10] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:59073] logged in with entity id 51810 at (-346.62277184246653, 74.0, -1321.2447773945225)
-[02:46:10] [Server thread/INFO]: Oars_Ryuma joined the game
-[02:46:12] [Server thread/INFO]: Villager cru['Cleric'/28475, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.30, y=121.05, z=-1601.47] died, message: 'Cleric drowned'
-[02:46:35] [Server thread/INFO]: Sooofi16[/127.6.72.130:52093] logged in with entity id 52494 at (-434.8038054784665, 119.0, -1593.3219324445402)
-[02:46:35] [Server thread/INFO]: Sooofi16 joined the game
-[02:48:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-433, y=119, z=-1587}
-[02:48:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-438, y=119, z=-1583}
-[02:48:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-438, y=118, z=-1582}
-[02:52:41] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[02:52:41] [Server thread/INFO]: Fransokio left the game
-[02:54:21] [Server thread/INFO]: Fransokio[/127.44.22.104:60773] logged in with entity id 56459 at (404.5459563310976, -60.0, -1336.3794679027305)
-[02:54:21] [Server thread/INFO]: Fransokio joined the game
-[02:56:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=430, y=-41, z=-1342} iw{x=430, y=-39, z=-1342}
-[02:57:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=457, y=-55, z=-1386} iw{x=456, y=-55, z=-1387}
-[02:58:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=458, y=-48, z=-1370} iw{x=457, y=-48, z=-1370}
-[02:58:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=458, y=-48, z=-1370} iw{x=457, y=-48, z=-1370}
-[02:58:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=451, y=-49, z=-1379} iw{x=450, y=-49, z=-1379}
-[02:58:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=443, y=-55, z=-1389} iw{x=444, y=-55, z=-1390}
-[02:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-51, z=-1384} iw{x=457, y=-51, z=-1384}
-[02:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-51, z=-1384} iw{x=457, y=-51, z=-1384}
-[02:59:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-46, z=-1372} iw{x=455, y=-46, z=-1371}
-[03:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=434, y=-25, z=-1330} iw{x=435, y=-26, z=-1329}
-[03:00:54] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=436, y=-33, z=-1339} iw{x=437, y=-34, z=-1338}
-[03:01:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=449, y=-34, z=-1344} iw{x=449, y=-35, z=-1343}
-[03:01:22] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-37, z=-1347} iw{x=457, y=-32, z=-1340}
-[03:01:22] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-37, z=-1347} iw{x=457, y=-32, z=-1340}
-[03:01:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=431, y=-30, z=-1336} iw{x=430, y=-31, z=-1337}
-[03:01:50] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=426, y=-40, z=-1339} iw{x=427, y=-42, z=-1339}
-[03:02:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=418, y=-28, z=-1348} iw{x=418, y=-29, z=-1349}
-[03:02:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-30, z=-1346} iw{x=413, y=-31, z=-1345}
-[03:02:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=415, y=-25, z=-1345} iw{x=418, y=-25, z=-1347}
-[03:02:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=409, y=-30, z=-1343} iw{x=411, y=-30, z=-1345}
-[03:03:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-37, z=-1340} iw{x=414, y=-36, z=-1340}
-[03:03:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=407, y=-36, z=-1344} iw{x=407, y=-35, z=-1343}
-[03:03:13] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=406, y=-40, z=-1340} iw{x=407, y=-40, z=-1340}
-[03:03:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=408, y=-39, z=-1336} iw{x=406, y=-40, z=-1335}
-[03:03:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=408, y=-39, z=-1335} iw{x=409, y=-40, z=-1337}
-[03:03:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-37, z=-1337} iw{x=412, y=-38, z=-1336}
-[03:03:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-40, z=-1337} iw{x=402, y=-41, z=-1335}
-[03:03:29] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-44, z=-1341} iw{x=399, y=-44, z=-1340}
-[03:04:25] [Server thread/INFO]: Sooofi16 has made the advancement [Enchanter]
-[03:06:43] [Server thread/INFO]: Oars_Ryuma has made the advancement [Country Lode, Take Me Home]
-[03:09:03] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
-[03:09:03] [Server thread/INFO]: Oars_Ryuma left the game
-[03:10:20] [Server thread/INFO]: Incorrect argument for command
-[03:10:20] [Server thread/INFO]: gamerule sendcommandfeedback false<--[HERE]
-[03:10:22] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
-[03:10:22] [Server thread/INFO]: Gioasdasd left the game
-[03:10:32] [Server thread/INFO]: Gioasdasd[/127.180.63.181:60099] logged in with entity id 67171 at (-423.19899278633596, 119.0, -1593.471987330476)
-[03:10:32] [Server thread/INFO]: Gioasdasd joined the game
-[03:10:48] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
-[03:10:48] [Server thread/INFO]: Gioasdasd left the game
-[03:11:07] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[03:11:07] [Server thread/INFO]: Sooofi16 left the game
-[03:16:24] [Server thread/INFO]: [Not Secure] <Fransokio> 1336 -51 -1304
+[12:29:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:29:44] [ServerMain/INFO]: Loaded 1373 recipes
+[12:29:44] [ServerMain/INFO]: Loaded 1484 advancements
+[12:29:44] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[12:29:44] [Server thread/INFO]: Loading properties
+[12:29:44] [Server thread/INFO]: Default game type: SURVIVAL
+[12:29:44] [Server thread/INFO]: Generating keypair
+[12:29:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:29:45] [Server thread/INFO]: Using epoll channel type
+[12:29:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:29:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:29:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:29:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:29:45] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[12:29:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[12:29:51] [Server thread/INFO]: Time elapsed: 6033 ms
+[12:29:51] [Server thread/INFO]: Done (6.447s)! For help, type "help"
+[12:32:12] [Server thread/INFO]: Sooofi16[/127.6.72.130:42945] logged in with entity id 29 at (-471.3779895547433, 119.0, -1577.150996940383)
+[12:32:12] [Server thread/INFO]: Sooofi16 joined the game
+[12:36:45] [Server thread/INFO]: No player was found
+[12:37:25] [Server thread/INFO]: Gave 100 experience levels to Sooofi16
