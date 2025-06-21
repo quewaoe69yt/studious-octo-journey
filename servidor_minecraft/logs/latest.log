@@ -122,3 +122,11 @@
 [02:19:42] [Server thread/INFO]: Oars_Ryuma joined the game
 [02:22:43] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> -25 106 -1341
 [02:22:47] [Server thread/INFO]: [Not Secure] <Sooofi16> voy
+[02:24:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-17, y=108, z=-1342} iw{x=-16, y=108, z=-1343}
+[02:24:38] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-17, y=106, z=-1342} iw{x=-17, y=107, z=-1341}
+[02:27:40] [Server thread/INFO]: Oars_Ryuma tried to swim in lava
+[02:31:15] [Server thread/INFO]: Fransokio lost connection: Disconnected
+[02:31:15] [Server thread/INFO]: Fransokio left the game
+[02:31:23] [Server thread/INFO]: Fransokio[/127.44.22.104:57271] logged in with entity id 42314 at (250.22205801703655, -52.0, -1518.385682995082)
+[02:31:23] [Server thread/INFO]: Fransokio joined the game
+[02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=386, y=-6, z=-1438} iw{x=386, y=-6, z=-1437}
