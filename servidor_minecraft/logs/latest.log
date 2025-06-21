@@ -51,3 +51,39 @@
 [01:56:04] [Server thread/INFO]: Gioasdasd joined the game
 [01:59:36] [Server thread/INFO]: Fransokio[/127.44.22.104:50263] logged in with entity id 23468 at (-392.9286413058667, 102.0, -1452.8771903979116)
 [01:59:36] [Server thread/INFO]: Fransokio joined the game
+[02:04:14] [Server thread/INFO]: Villager cru['Villager'/16339, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-440.83, y=108.00, z=-1544.65] died, message: 'Villager was slain by Zombie'
+[02:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-19, y=108, z=-1339} iw{x=-19, y=108, z=-1338}
+[02:05:59] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
+[02:05:59] [Server thread/INFO]: Oars_Ryuma left the game
+[02:07:35] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
+[02:07:35] [Server thread/INFO]: Sooofi16 left the game
+[02:07:36] [Server thread/INFO]: Fransokio lost connection: Disconnected
+[02:07:36] [Server thread/INFO]: Fransokio left the game
+[02:07:37] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
+[02:07:37] [Server thread/INFO]: Gioasdasd left the game
+[02:07:43] [Server thread/INFO]: Gioasdasd[/127.180.63.181:48373] logged in with entity id 28307 at (-400.37656403189874, 38.0, -1520.6439113802637)
+[02:07:43] [Server thread/INFO]: Gioasdasd joined the game
+[02:07:46] [Server thread/INFO]: Fransokio[/127.44.22.104:60277] logged in with entity id 28688 at (270.9230890206696, 110.0, -1331.6985441704783)
+[02:07:46] [Server thread/INFO]: Fransokio joined the game
+[02:07:50] [Server thread/INFO]: Sooofi16[/127.6.72.130:51433] logged in with entity id 29048 at (-421.5680200694545, 118.0, -1497.7640544948772)
+[02:07:50] [Server thread/INFO]: Sooofi16 joined the game
+[02:07:55] [Server thread/INFO]: Fransokio lost connection: Disconnected
+[02:07:55] [Server thread/INFO]: Fransokio left the game
+[02:08:08] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
+[02:08:08] [Server thread/INFO]: Gioasdasd left the game
+[02:08:13] [Server thread/INFO]: [Not Secure] <Sooofi16> w
+[02:08:17] [Server thread/INFO]: Fransokio[/127.44.22.104:39243] logged in with entity id 29313 at (266.84861288543055, 110.0, -1338.861230242343)
+[02:08:17] [Server thread/INFO]: Fransokio joined the game
+[02:08:18] [Server thread/INFO]: Gioasdasd[/127.180.63.181:46017] logged in with entity id 29465 at (-409.30565761679355, 39.875, -1520.8324382376768)
+[02:08:18] [Server thread/INFO]: Gioasdasd joined the game
+[02:08:33] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
+[02:08:33] [Server thread/INFO]: Sooofi16 left the game
+[02:09:27] [Server thread/INFO]: Unknown item 'minecraft:iron'
+[02:09:27] [Server thread/INFO]: ...Gioasdasd iron 1<--[HERE]
+[02:09:45] [Server thread/INFO]: Unknown item 'minecraft:iron'
+[02:09:45] [Server thread/INFO]: ...gioasdasd iron<--[HERE]
+[02:10:18] [Server thread/INFO]: Unknown item 'minecraft:iron'
+[02:10:18] [Server thread/INFO]: ...gioasdasd iron 1<--[HERE]
+[02:11:18] [Server thread/INFO]: Incorrect argument for command
+[02:11:18] [Server thread/INFO]: xp gioasdasd 100<--[HERE]
+[02:12:32] [Server thread/INFO]: Gave 1 [Iron Ingot] to Gioasdasd
