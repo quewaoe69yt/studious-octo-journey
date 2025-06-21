@@ -1,36 +1,54 @@
-[17:57:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:57:16] [ServerMain/INFO]: Loaded 1373 recipes
-[17:57:16] [ServerMain/INFO]: Loaded 1484 advancements
-[17:57:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[17:57:16] [Server thread/INFO]: Loading properties
-[17:57:16] [Server thread/INFO]: Default game type: SURVIVAL
-[17:57:16] [Server thread/INFO]: Generating keypair
-[17:57:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:57:16] [Server thread/INFO]: Using epoll channel type
-[17:57:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:57:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:57:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:57:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:57:16] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[17:57:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:57:22] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[17:57:22] [Server thread/INFO]: Time elapsed: 5207 ms
-[17:57:22] [Server thread/INFO]: Done (5.647s)! For help, type "help"
-[17:59:01] [Server thread/INFO]: Sooofi16[/127.6.72.130:40357] logged in with entity id 29 at (-406.69999998807907, 38.0, -1520.7228531141461)
-[17:59:01] [Server thread/INFO]: Sooofi16 joined the game
-[18:02:46] [Server thread/INFO]: Sooofi16 lost connection: Timed out
-[18:02:46] [Server thread/INFO]: Sooofi16 left the game
-[18:03:14] [Server thread/INFO]: Sooofi16[/127.122.167.43:38919] logged in with entity id 1372 at (-424.2730790049434, 119.0, -1586.8812037654334)
-[18:03:14] [Server thread/INFO]: Sooofi16 joined the game
-[18:13:12] [Server thread/INFO]: Sooofi16 was shot by Stray
-[18:14:10] [Server thread/INFO]: Sooofi16 was slain by Spider
+[18:31:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:31:32] [ServerMain/INFO]: Loaded 1373 recipes
+[18:31:32] [ServerMain/INFO]: Loaded 1484 advancements
+[18:31:32] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:31:32] [Server thread/INFO]: Loading properties
+[18:31:32] [Server thread/INFO]: Default game type: SURVIVAL
+[18:31:32] [Server thread/INFO]: Generating keypair
+[18:31:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:31:32] [Server thread/INFO]: Using epoll channel type
+[18:31:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:31:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:31:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:31:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:31:32] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[18:31:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:31:36] [Server thread/INFO]: Time elapsed: 3096 ms
+[18:31:36] [Server thread/INFO]: Done (3.457s)! For help, type "help"
+[18:31:38] [Server thread/INFO]: Sooofi16[/127.122.167.43:54009] logged in with entity id 29 at (-394.70305540837956, 60.0, -1494.381912794397)
+[18:31:38] [Server thread/INFO]: Sooofi16 joined the game
+[18:32:45] [Server thread/INFO]: Sooofi16 was shot by Stray
+[18:33:45] [Server thread/INFO]: [Not Secure] <Sooofi16> T
+[18:36:11] [Server thread/INFO]: Gioasdasd[/127.180.63.181:42769] logged in with entity id 2177 at (-421.3858812796309, 119.0, -1591.228097866919)
+[18:36:11] [Server thread/INFO]: Gioasdasd joined the game
+[18:36:53] [Server thread/INFO]: [Not Secure] <Gioasdasd> oalvv
+[18:37:12] [Server thread/INFO]: [Not Secure] <Gioasdasd> XDSKLDJDNWFNLS
+[18:37:14] [Server thread/INFO]: [Not Secure] <Sooofi16> DONDE DEJE LAS BOTAS PUTA MADRE
+[18:37:24] [Server thread/INFO]: [Not Secure] <Gioasdasd> Porque una de artropodos
+[18:37:27] [Server thread/INFO]: [Not Secure] <Sooofi16> creo q me las robo un sonbi
+[18:38:02] [Server thread/INFO]: [Not Secure] <Sooofi16> es que una salio asi
+[18:38:08] [Server thread/INFO]: [Not Secure] <Sooofi16> y esta chistoso
+[18:39:41] [Server thread/INFO]: [Not Secure] <Gioasdasd> wn
+[18:39:43] [Server thread/INFO]: [Not Secure] <Gioasdasd> y si
+[18:39:48] [Server thread/INFO]: [Not Secure] <Sooofi16> me mato
+[18:39:48] [Server thread/INFO]: [Not Secure] <Gioasdasd> les ponemos diseño
+[18:39:51] [Server thread/INFO]: [Not Secure] <Gioasdasd> con netherite
+[18:39:51] [Server thread/INFO]: [Not Secure] <Sooofi16> si
+[18:39:56] [Server thread/INFO]: Fransokio[/127.44.22.104:59677] logged in with entity id 3071 at (1357.840669521709, -43.82324072493576, -1409.2779880706028)
+[18:39:56] [Server thread/INFO]: Fransokio joined the game
+[18:39:59] [Server thread/INFO]: [Not Secure] <Sooofi16> eso estaba oensando
+[18:40:03] [Server thread/INFO]: [Not Secure] <Gioasdasd> y matamos al francisco
+[18:40:05] [Server thread/INFO]: [Not Secure] <Sooofi16> se unio la mujer
+[18:40:09] [Server thread/INFO]: [Not Secure] <Sooofi16> mi mujer
+[18:40:11] [Server thread/INFO]: [Not Secure] <Sooofi16> auuu
+[18:40:24] [Server thread/INFO]: [Not Secure] <Fransokio> por eso no tienes novia
+[18:40:26] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=1364, y=-47, z=-1414} iw{x=1364, y=-49, z=-1414}
+[18:40:36] [Server thread/INFO]: [Not Secure] <Sooofi16> y yo para que quiero auna
+[18:41:23] [Server thread/INFO]: [Not Secure] <Fransokio> para hacer la cogicion y dejar herencia en un mundo que cada vez se esta llendo a la mrd
