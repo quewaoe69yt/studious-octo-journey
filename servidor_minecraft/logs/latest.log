@@ -150,3 +150,33 @@
 [02:48:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-438, y=118, z=-1582}
 [02:52:41] [Server thread/INFO]: Fransokio lost connection: Disconnected
 [02:52:41] [Server thread/INFO]: Fransokio left the game
+[02:54:21] [Server thread/INFO]: Fransokio[/127.44.22.104:60773] logged in with entity id 56459 at (404.5459563310976, -60.0, -1336.3794679027305)
+[02:54:21] [Server thread/INFO]: Fransokio joined the game
+[02:56:10] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=430, y=-41, z=-1342} iw{x=430, y=-39, z=-1342}
+[02:57:33] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=457, y=-55, z=-1386} iw{x=456, y=-55, z=-1387}
+[02:58:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=458, y=-48, z=-1370} iw{x=457, y=-48, z=-1370}
+[02:58:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=458, y=-48, z=-1370} iw{x=457, y=-48, z=-1370}
+[02:58:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=451, y=-49, z=-1379} iw{x=450, y=-49, z=-1379}
+[02:58:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=443, y=-55, z=-1389} iw{x=444, y=-55, z=-1390}
+[02:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-51, z=-1384} iw{x=457, y=-51, z=-1384}
+[02:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-51, z=-1384} iw{x=457, y=-51, z=-1384}
+[02:59:19] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-46, z=-1372} iw{x=455, y=-46, z=-1371}
+[03:00:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=434, y=-25, z=-1330} iw{x=435, y=-26, z=-1329}
+[03:00:54] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=436, y=-33, z=-1339} iw{x=437, y=-34, z=-1338}
+[03:01:07] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=449, y=-34, z=-1344} iw{x=449, y=-35, z=-1343}
+[03:01:22] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-37, z=-1347} iw{x=457, y=-32, z=-1340}
+[03:01:22] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=456, y=-37, z=-1347} iw{x=457, y=-32, z=-1340}
+[03:01:41] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=431, y=-30, z=-1336} iw{x=430, y=-31, z=-1337}
+[03:01:50] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=426, y=-40, z=-1339} iw{x=427, y=-42, z=-1339}
+[03:02:28] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=418, y=-28, z=-1348} iw{x=418, y=-29, z=-1349}
+[03:02:37] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-30, z=-1346} iw{x=413, y=-31, z=-1345}
+[03:02:53] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=415, y=-25, z=-1345} iw{x=418, y=-25, z=-1347}
+[03:02:56] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=409, y=-30, z=-1343} iw{x=411, y=-30, z=-1345}
+[03:03:05] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-37, z=-1340} iw{x=414, y=-36, z=-1340}
+[03:03:11] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=407, y=-36, z=-1344} iw{x=407, y=-35, z=-1343}
+[03:03:13] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=406, y=-40, z=-1340} iw{x=407, y=-40, z=-1340}
+[03:03:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=408, y=-39, z=-1336} iw{x=406, y=-40, z=-1335}
+[03:03:14] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=408, y=-39, z=-1335} iw{x=409, y=-40, z=-1337}
+[03:03:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-37, z=-1337} iw{x=412, y=-38, z=-1336}
+[03:03:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-40, z=-1337} iw{x=402, y=-41, z=-1335}
+[03:03:29] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-44, z=-1341} iw{x=399, y=-44, z=-1340}
