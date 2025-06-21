@@ -1,24 +1,39 @@
-[00:11:34] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=24, y=88, z=-293} iw{x=24, y=86, z=-293}
-[00:12:44] [Server thread/INFO]: Fransokio has made the advancement [Hidden in the Depths]
-[00:14:20] [Server thread/INFO]: Oars_Ryuma has made the advancement [Hidden in the Depths]
-[00:14:28] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
-[00:14:28] [Server thread/INFO]: Oars_Ryuma left the game
-[00:14:43] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:60283] logged in with entity id 17178 at (43.69999998807907, 20.0, -347.69999998807907)
-[00:14:43] [Server thread/INFO]: Oars_Ryuma joined the game
-[00:19:17] [Server thread/INFO]: Villager cru['Francisco'/216, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-382.70, y=87.00, z=-1426.56] died, message: 'Francisco was slain by Gioasdasd using [Pollita chorreando semensito]'
-[00:19:17] [Server thread/INFO]: Named entity cru['Francisco'/216, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-382.70, y=87.00, z=-1426.56] died: Francisco was slain by Gioasdasd using [Pollita chorreando semensito]
-[00:25:38] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=264, y=19, z=-373} iw{x=264, y=18, z=-373}
-[00:25:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=96, y=15, z=-345} iw{x=95, y=13, z=-346}
-[00:25:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=96, y=15, z=-345} iw{x=95, y=13, z=-346}
-[00:25:40] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=96, y=15, z=-345} iw{x=95, y=13, z=-346}
-[00:29:05] [Server thread/WARN]: Fransokio moved too quickly! 0.0,0.0,-10.102792153068947
-[00:29:09] [Server thread/INFO]: Sooofi16 was slain by Enderman
-[00:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[00:29:29] [Server thread/INFO]: Gioasdasd has made the advancement [Best Friends Forever]
-[00:31:20] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=181, y=13, z=-465} iw{x=180, y=14, z=-463}
-[00:31:51] [Server thread/INFO]: Gioasdasd has made the advancement [The Parrots and the Bats]
-[00:35:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=183, y=11, z=-481} iw{x=178, y=10, z=-487}
-[00:35:36] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=183, y=11, z=-481} iw{x=178, y=10, z=-487}
-[00:35:47] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=179, y=12, z=-492} iw{x=179, y=11, z=-491}
-[00:35:59] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=184, y=12, z=-496} iw{x=184, y=12, z=-497}
-[00:37:01] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=169, y=13, z=-512} iw{x=168, y=14, z=-511}
+[00:51:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:51:28] [ServerMain/INFO]: Loaded 1373 recipes
+[00:51:28] [ServerMain/INFO]: Loaded 1484 advancements
+[00:51:28] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[00:51:28] [Server thread/INFO]: Loading properties
+[00:51:28] [Server thread/INFO]: Default game type: SURVIVAL
+[00:51:28] [Server thread/INFO]: Generating keypair
+[00:51:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:51:28] [Server thread/INFO]: Using epoll channel type
+[00:51:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:51:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:51:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:51:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:51:28] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[00:51:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:51:34] [Server thread/INFO]: Time elapsed: 5422 ms
+[00:51:34] [Server thread/INFO]: Done (5.797s)! For help, type "help"
+[00:51:35] [Server thread/INFO]: Fransokio[/127.44.22.104:51673] logged in with entity id 27 at (-368.4488996627442, 86.9375, -1412.4245216541126)
+[00:51:35] [Server thread/INFO]: Fransokio joined the game
+[00:51:42] [Server thread/INFO]: Sooofi16[/127.6.72.130:39785] logged in with entity id 350 at (-441.50203581930924, 173.9375, -1603.3760323239937)
+[00:51:43] [Server thread/INFO]: Sooofi16 joined the game
+[00:52:41] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:59163] logged in with entity id 817 at (-387.7889297937168, 92.0, -1424.3481515723786)
+[00:52:41] [Server thread/INFO]: Oars_Ryuma joined the game
+[00:52:52] [Server thread/INFO]: Villager cru['Villager'/367, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-490.95, y=102.00, z=-1609.66] died, message: 'Villager was slain by Zombie'
+[01:03:04] [Server thread/INFO]: Oars_Ryuma has made the advancement [Take Aim]
+[01:10:51] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> aun no
+[01:10:55] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> esperame
+[01:11:10] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> pipilin
