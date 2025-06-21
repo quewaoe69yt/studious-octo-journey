@@ -1,53 +1,34 @@
-[12:29:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:29:44] [ServerMain/INFO]: Loaded 1373 recipes
-[12:29:44] [ServerMain/INFO]: Loaded 1484 advancements
-[12:29:44] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[12:29:44] [Server thread/INFO]: Loading properties
-[12:29:44] [Server thread/INFO]: Default game type: SURVIVAL
-[12:29:44] [Server thread/INFO]: Generating keypair
-[12:29:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:29:45] [Server thread/INFO]: Using epoll channel type
-[12:29:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:29:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:29:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:29:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:29:45] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[12:29:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 63%
-[12:29:51] [Server thread/INFO]: Time elapsed: 6033 ms
-[12:29:51] [Server thread/INFO]: Done (6.447s)! For help, type "help"
-[12:32:12] [Server thread/INFO]: Sooofi16[/127.6.72.130:42945] logged in with entity id 29 at (-471.3779895547433, 119.0, -1577.150996940383)
-[12:32:12] [Server thread/INFO]: Sooofi16 joined the game
-[12:36:45] [Server thread/INFO]: No player was found
-[12:37:25] [Server thread/INFO]: Gave 100 experience levels to Sooofi16
-[12:42:49] [Server thread/INFO]: Gave 100 experience levels to Sooofi16
-[12:56:02] [Server thread/INFO]: Villager cru['Villager'/246, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-443.21, y=118.00, z=-1503.52] died, message: 'Villager was slain by Zombie'
-[12:56:57] [Server thread/INFO]: Villager cru['Villager'/184, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-492.46, y=119.00, z=-1565.09] died, message: 'Villager was slain by Zombie'
-[12:58:43] [Server thread/INFO]: Gave 30 experience levels to Sooofi16
-[12:59:47] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[12:59:47] [Server thread/INFO]: Sooofi16 left the game
-[13:00:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:00:09] [Server thread/INFO]: stopstop<--[HERE]
-[13:00:14] [Server thread/INFO]: Stopping the server
-[13:00:14] [Server thread/INFO]: Stopping server
-[13:00:14] [Server thread/INFO]: Saving players
-[13:00:14] [Server thread/INFO]: Saving worlds
-[13:00:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:overworld
-[13:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:the_end
-[13:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[las epicas aventuras de wonderwoman y su amantes]'/minecraft:the_nether
-[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (las epicas aventuras de wonderwoman y sus amantes): All chunks are saved
-[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:00:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:57:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:57:16] [ServerMain/INFO]: Loaded 1373 recipes
+[17:57:16] [ServerMain/INFO]: Loaded 1484 advancements
+[17:57:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:57:16] [Server thread/INFO]: Loading properties
+[17:57:16] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:16] [Server thread/INFO]: Generating keypair
+[17:57:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:16] [Server thread/INFO]: Using epoll channel type
+[17:57:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:57:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:57:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:57:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:57:16] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[17:57:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:57:22] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[17:57:22] [Server thread/INFO]: Time elapsed: 5207 ms
+[17:57:22] [Server thread/INFO]: Done (5.647s)! For help, type "help"
+[17:59:01] [Server thread/INFO]: Sooofi16[/127.6.72.130:40357] logged in with entity id 29 at (-406.69999998807907, 38.0, -1520.7228531141461)
+[17:59:01] [Server thread/INFO]: Sooofi16 joined the game
+[18:02:46] [Server thread/INFO]: Sooofi16 lost connection: Timed out
+[18:02:46] [Server thread/INFO]: Sooofi16 left the game
+[18:03:14] [Server thread/INFO]: Sooofi16[/127.122.167.43:38919] logged in with entity id 1372 at (-424.2730790049434, 119.0, -1586.8812037654334)
+[18:03:14] [Server thread/INFO]: Sooofi16 joined the game
