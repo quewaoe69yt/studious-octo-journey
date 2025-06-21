@@ -88,3 +88,4 @@
 [19:35:52] [Server thread/INFO]: Villager cru['Villager'/18592, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-508.24, y=119.00, z=-1438.74] died, message: 'Villager was slain by Zombie'
 [19:40:29] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
 [19:40:29] [Server thread/INFO]: Sooofi16 left the game
+[19:51:58] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=1299, y=-52, z=-1238} iw{x=1299, y=-51, z=-1237}
