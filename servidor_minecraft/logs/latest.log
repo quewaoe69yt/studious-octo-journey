@@ -130,3 +130,23 @@
 [02:31:23] [Server thread/INFO]: Fransokio[/127.44.22.104:57271] logged in with entity id 42314 at (250.22205801703655, -52.0, -1518.385682995082)
 [02:31:23] [Server thread/INFO]: Fransokio joined the game
 [02:43:03] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=386, y=-6, z=-1438} iw{x=386, y=-6, z=-1437}
+[02:44:24] [Server thread/INFO]: Oars_Ryuma was blown up by Creeper
+[02:45:27] [Server thread/INFO]: Villager cru['Villager'/28315, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-470.30, y=114.00, z=-1531.30] died, message: 'Villager was slain by Zombie'
+[02:45:48] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
+[02:45:48] [Server thread/INFO]: Sooofi16 left the game
+[02:45:49] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
+[02:45:49] [Server thread/INFO]: Oars_Ryuma left the game
+[02:45:52] [Server thread/INFO]: Fransokio lost connection: Disconnected
+[02:45:52] [Server thread/INFO]: Fransokio left the game
+[02:46:08] [Server thread/INFO]: Fransokio[/127.44.22.104:59151] logged in with entity id 51534 at (396.88091141109743, -53.0, -1359.3390471880718)
+[02:46:08] [Server thread/INFO]: Fransokio joined the game
+[02:46:10] [Server thread/INFO]: Oars_Ryuma[/127.160.252.18:59073] logged in with entity id 51810 at (-346.62277184246653, 74.0, -1321.2447773945225)
+[02:46:10] [Server thread/INFO]: Oars_Ryuma joined the game
+[02:46:12] [Server thread/INFO]: Villager cru['Cleric'/28475, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.30, y=121.05, z=-1601.47] died, message: 'Cleric drowned'
+[02:46:35] [Server thread/INFO]: Sooofi16[/127.6.72.130:52093] logged in with entity id 52494 at (-434.8038054784665, 119.0, -1593.3219324445402)
+[02:46:35] [Server thread/INFO]: Sooofi16 joined the game
+[02:48:12] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-433, y=119, z=-1587}
+[02:48:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-438, y=119, z=-1583}
+[02:48:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-436, y=118, z=-1600} iw{x=-438, y=118, z=-1582}
+[02:52:41] [Server thread/INFO]: Fransokio lost connection: Disconnected
+[02:52:41] [Server thread/INFO]: Fransokio left the game
