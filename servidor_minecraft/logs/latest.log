@@ -180,3 +180,17 @@
 [03:03:18] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=413, y=-37, z=-1337} iw{x=412, y=-38, z=-1336}
 [03:03:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-40, z=-1337} iw{x=402, y=-41, z=-1335}
 [03:03:29] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=400, y=-44, z=-1341} iw{x=399, y=-44, z=-1340}
+[03:04:25] [Server thread/INFO]: Sooofi16 has made the advancement [Enchanter]
+[03:06:43] [Server thread/INFO]: Oars_Ryuma has made the advancement [Country Lode, Take Me Home]
+[03:09:03] [Server thread/INFO]: Oars_Ryuma lost connection: Disconnected
+[03:09:03] [Server thread/INFO]: Oars_Ryuma left the game
+[03:10:20] [Server thread/INFO]: Incorrect argument for command
+[03:10:20] [Server thread/INFO]: gamerule sendcommandfeedback false<--[HERE]
+[03:10:22] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
+[03:10:22] [Server thread/INFO]: Gioasdasd left the game
+[03:10:32] [Server thread/INFO]: Gioasdasd[/127.180.63.181:60099] logged in with entity id 67171 at (-423.19899278633596, 119.0, -1593.471987330476)
+[03:10:32] [Server thread/INFO]: Gioasdasd joined the game
+[03:10:48] [Server thread/INFO]: Gioasdasd lost connection: Disconnected
+[03:10:48] [Server thread/INFO]: Gioasdasd left the game
+[03:11:07] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
+[03:11:07] [Server thread/INFO]: Sooofi16 left the game
