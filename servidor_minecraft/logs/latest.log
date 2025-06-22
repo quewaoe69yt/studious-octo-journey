@@ -1,33 +1,29 @@
-[17:50:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:50:06] [ServerMain/INFO]: Loaded 1373 recipes
-[17:50:06] [ServerMain/INFO]: Loaded 1484 advancements
-[17:50:06] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[17:50:06] [Server thread/INFO]: Loading properties
-[17:50:06] [Server thread/INFO]: Default game type: SURVIVAL
-[17:50:06] [Server thread/INFO]: Generating keypair
-[17:50:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:50:07] [Server thread/INFO]: Using epoll channel type
-[17:50:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:50:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:50:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:50:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:50:07] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[17:50:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:50:12] [Server thread/INFO]: Time elapsed: 4673 ms
-[17:50:12] [Server thread/INFO]: Done (5.053s)! For help, type "help"
-[17:52:53] [Server thread/INFO]: Gioasdasd[/127.180.63.181:39333] logged in with entity id 29 at (-427.94092417514554, 121.17675927506424, -1591.8266286769651)
-[17:52:53] [Server thread/INFO]: Gioasdasd joined the game
-[17:53:58] [Server thread/INFO]: Villager cru['Librarian'/175, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-454.21, y=119.54, z=-1595.79] died, message: 'Librarian tried to swim in lava'
-[17:54:04] [Server thread/INFO]: Villager cru['Librarian'/142, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-469.36, y=119.00, z=-1591.48] died, message: 'Librarian burned to death'
-[17:54:21] [Server thread/INFO]: Villager cru['Librarian'/121, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-449.96, y=119.00, z=-1595.51] died, message: 'Librarian burned to death'
-[17:54:40] [Server thread/INFO]: Villager cru['Librarian'/145, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-473.30, y=119.00, z=-1601.47] died, message: 'Librarian tried to swim in lava'
+[18:24:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:24:51] [ServerMain/INFO]: Loaded 1373 recipes
+[18:24:51] [ServerMain/INFO]: Loaded 1484 advancements
+[18:24:51] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:24:51] [Server thread/INFO]: Loading properties
+[18:24:51] [Server thread/INFO]: Default game type: SURVIVAL
+[18:24:51] [Server thread/INFO]: Generating keypair
+[18:24:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:24:51] [Server thread/INFO]: Using epoll channel type
+[18:24:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:24:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:24:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:24:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:24:51] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
+[18:24:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:24:55] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[18:24:55] [Server thread/INFO]: Time elapsed: 3531 ms
+[18:24:55] [Server thread/INFO]: Done (3.844s)! For help, type "help"
+[18:27:36] [Server thread/INFO]: Gioasdasd[/127.180.63.181:52267] logged in with entity id 29 at (-420.6842078764776, 119.0, -1584.9843088552404)
+[18:27:36] [Server thread/INFO]: Gioasdasd joined the game
+[18:30:35] [Server thread/INFO]: Villager cru['Armorer'/328, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-335.94, y=72.56, z=-1409.67] died, message: 'Armorer was slain by Zombie'
+[18:30:45] [Server thread/INFO]: Villager cru['Cleric'/344, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-387.87, y=80.00, z=-1400.70] died, message: 'Cleric was slain by Zombie'
