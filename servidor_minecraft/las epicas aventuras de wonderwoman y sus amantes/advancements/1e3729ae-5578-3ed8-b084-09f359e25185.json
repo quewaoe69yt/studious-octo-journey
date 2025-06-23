@@ -671,7 +671,9 @@
       "minecraft:blaze": "2025-06-19 23:34:14 +0000",
       "minecraft:skeleton": "2025-06-19 22:48:36 +0000",
       "minecraft:phantom": "2025-06-21 18:56:50 +0000",
+      "minecraft:witch": "2025-06-23 00:23:36 +0000",
       "minecraft:wither_skeleton": "2025-06-19 23:33:38 +0000",
+      "minecraft:ravager": "2025-06-23 00:23:14 +0000",
       "minecraft:husk": "2025-06-22 02:11:23 +0000",
       "minecraft:bogged": "2025-06-22 02:11:48 +0000",
       "minecraft:ghast": "2025-06-19 23:10:47 +0000",
@@ -3303,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-23 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-22 23:59:57 +0000"
@@ -3339,6 +3347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-23 00:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-22 23:00:58 +0000"
@@ -3351,9 +3365,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-23 00:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-06-22 23:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-23 00:25:10 +0000"
     },
     "done": true
   },
@@ -3363,9 +3389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-23 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-06-22 23:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-23 00:11:15 +0000"
     },
     "done": true
   },
