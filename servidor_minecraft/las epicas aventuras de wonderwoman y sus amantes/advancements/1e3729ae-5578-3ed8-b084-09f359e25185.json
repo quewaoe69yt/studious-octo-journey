@@ -684,10 +684,12 @@
       "minecraft:enderman": "2025-06-19 23:02:41 +0000",
       "minecraft:magma_cube": "2025-06-19 23:08:01 +0000",
       "minecraft:spider": "2025-06-19 23:05:17 +0000",
+      "minecraft:vex": "2025-06-23 00:32:34 +0000",
       "minecraft:zombie": "2025-06-19 22:11:32 +0000",
       "minecraft:creeper": "2025-06-19 22:15:30 +0000",
       "minecraft:zombie_villager": "2025-06-21 01:02:39 +0000",
-      "minecraft:slime": "2025-06-22 02:51:17 +0000"
+      "minecraft:slime": "2025-06-22 02:51:17 +0000",
+      "minecraft:evoker": "2025-06-23 00:28:42 +0000"
     },
     "done": false
   },
