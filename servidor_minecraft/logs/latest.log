@@ -23,3 +23,9 @@
 [00:48:37] [Server thread/INFO]: Fransokio left the game
 [00:50:14] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
 [00:50:14] [Server thread/INFO]: Sooofi16 left the game
+[01:05:14] [Server thread/INFO]: Server empty for 900 seconds, pausing
+[01:09:22] [Server thread/INFO]: Sooofi16[/127.137.32.187:40009] logged in with entity id 49773 at (-422.18982629664566, 119.0, -1567.2895699370254)
+[01:09:22] [Server thread/INFO]: Sooofi16 joined the game
+[01:11:07] [Server thread/INFO]: Sooofi16 lost connection: Timed out
+[01:11:07] [Server thread/INFO]: Sooofi16 left the game
+[01:11:07] [Server thread/WARN]: handleDisconnection() called twice
