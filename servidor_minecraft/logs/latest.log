@@ -1,49 +1,18 @@
-[22:19:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:19:34] [ServerMain/INFO]: Loaded 1373 recipes
-[22:19:34] [ServerMain/INFO]: Loaded 1484 advancements
-[22:19:34] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[22:19:34] [Server thread/INFO]: Loading properties
-[22:19:34] [Server thread/INFO]: Default game type: SURVIVAL
-[22:19:34] [Server thread/INFO]: Generating keypair
-[22:19:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:19:34] [Server thread/INFO]: Using epoll channel type
-[22:19:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:19:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:19:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:19:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:19:34] [Server thread/INFO]: Preparing level "las epicas aventuras de wonderwoman y sus amantes"
-[22:19:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:19:38] [Worker-Main-2/INFO]: Preparing spawn area: 97%
-[22:19:38] [Server thread/INFO]: Time elapsed: 3537 ms
-[22:19:38] [Server thread/INFO]: Done (3.897s)! For help, type "help"
-[22:19:40] [Server thread/INFO]: Fransokio[/127.221.193.119:39871] logged in with entity id 29 at (-455.07499998807907, 119.0, -1588.694514617673)
-[22:19:40] [Server thread/INFO]: Fransokio joined the game
-[22:23:05] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[22:23:05] [Server thread/INFO]: Fransokio left the game
-[22:25:44] [Server thread/INFO]: Fransokio[/127.221.193.119:53621] logged in with entity id 859 at (-439.4455641621152, 125.0, -1610.6223097835762)
-[22:25:44] [Server thread/INFO]: Fransokio joined the game
-[22:34:13] [Server thread/INFO]: Sooofi16[/127.187.204.29:45601] logged in with entity id 2270 at (-427.9061452908652, 119.0, -1610.845343610251)
-[22:34:13] [Server thread/INFO]: Sooofi16 joined the game
-[22:40:09] [Server thread/INFO]: [Not Secure] <Sooofi16> puta madre francisco
-[23:05:35] [Server thread/INFO]: [Not Secure] <Sooofi16> ven
-[23:05:47] [Server thread/INFO]: [Not Secure] <Fransokio> donde?
-[23:06:07] [Server thread/INFO]: [Not Secure] <Sooofi16> -230 -1480
-[23:06:34] [Server thread/INFO]: [Not Secure] <Sooofi16> aaaa
-[23:06:42] [Server thread/INFO]: [Not Secure] <Sooofi16> pense que era un iglu
-[23:06:49] [Server thread/INFO]: [Not Secure] <Sooofi16> me voideo
-[23:06:56] [Server thread/INFO]: [Not Secure] <Fransokio> BRUH
-[23:06:57] [Server thread/INFO]: [Not Secure] <Sooofi16> voy a comerciales
-[23:07:06] [Server thread/INFO]: [Not Secure] <Sooofi16> hay una casa aca
-[23:07:44] [Server thread/INFO]: [Not Secure] <Sooofi16> toma
-[23:07:55] [Server thread/INFO]: Sooofi16 lost connection: Disconnected
-[23:07:55] [Server thread/INFO]: Sooofi16 left the game
-[23:12:11] [Server thread/INFO]: [Not Secure] <Fransokio> 👀👀👀👀🏳️‍🌈🗣️🥵🙏🥵🥶🥶🥺🥺🏢💅🛬🛬
-[23:26:27] [Server thread/INFO]: Fransokio lost connection: Disconnected
-[23:26:27] [Server thread/INFO]: Fransokio left the game
+[00:00:23] [Server thread/INFO]: Sooofi16[/127.5.32.10:50125] logged in with entity id 1080 at (-264.65702688294476, 79.0, -1475.6458209243738)
+[00:00:23] [Server thread/INFO]: Sooofi16 joined the game
+[00:00:32] [Server thread/INFO]: [Not Secure] <Sooofi16> ay
+[00:00:36] [Server thread/INFO]: [Not Secure] <Sooofi16> sepso
+[00:00:39] [Server thread/INFO]: [Not Secure] <Sooofi16> en epseso
+[00:00:49] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> ostias
+[00:00:50] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> ola
+[00:00:55] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> dame seczo
+[00:01:25] [Server thread/INFO]: [Not Secure] [Server] oye ricardo y si matas al esteban?
+[00:01:30] [Server thread/INFO]: [Not Secure] <Sooofi16> real
+[00:01:34] [Server thread/INFO]: [Not Secure] <Sooofi16> wena po
+[00:01:48] [Server thread/INFO]: [Not Secure] <Sooofi16> tt
+[00:02:10] [Server thread/INFO]: [Not Secure] <Sooofi16> giovanni?
+[00:02:25] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> ?
+[00:02:32] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> que onda
+[00:02:47] [Server thread/INFO]: [Not Secure] [Server] no. soy tu conciencia/no /say no, soy tu conciencia
+[00:02:53] [Server thread/INFO]: [Not Secure] <Oars_Ryuma> gio unete quiero comentarte una cosita
+[00:02:54] [Server thread/INFO]: [Not Secure] <Sooofi16> real?
