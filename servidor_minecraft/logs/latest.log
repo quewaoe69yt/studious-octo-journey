@@ -22,3 +22,44 @@
 [21:20:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
 [21:20:55] [Server thread/INFO]: Time elapsed: 3090 ms
 [21:20:55] [Server thread/INFO]: Done (3.410s)! For help, type "help"
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:yellow_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:red_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:red_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:magenta_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:gray_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:green_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:cyan_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:black_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:lime_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:purple_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:lime_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:light_gray_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:purple_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:brown_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:yellow_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:cyan_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:blue_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pink_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:light_blue_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:orange_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:black_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:magenta_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:gray_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:pink_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:brown_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:green_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:light_gray_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:orange_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:blue_wool] removed now.
+[21:31:55] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / minecraft:light_blue_bed_from_white_bed] removed now.
+[21:31:55] [Server thread/INFO]: xianover[/127.222.78.62:55369] logged in with entity id 29 at (-424.83399643686386, 119.0, -1646.6262781861549)
+[21:31:55] [Server thread/INFO]: xianover joined the game
+[21:31:55] [Server thread/INFO]: xianover has made the advancement [Suit Up]
+[21:31:55] [Server thread/INFO]: xianover has made the advancement [Getting an Upgrade]
+[21:31:55] [Server thread/INFO]: xianover has made the advancement [Acquire Hardware]
+[21:31:55] [Server thread/INFO]: xianover has made the advancement [Stone Age]
+[21:31:55] [Server thread/INFO]: xianover has made the advancement [Isn't It Iron Pick]
+[21:36:01] [Server thread/INFO]: Sooofi16[/127.16.178.77:47757] logged in with entity id 1309 at (1400.9280714954652, -52.0, -1283.9895606944096)
+[21:36:01] [Server thread/INFO]: Sooofi16 joined the game
+[21:36:01] [Server thread/WARN]: UUID of added entity already exists: ctn['Thrown Ender Pearl'/1311, l='ServerLevel[las epicas aventuras de wonderwoman y su amantes]', x=-439.65, y=118.99, z=-1599.49]
+[21:36:01] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
