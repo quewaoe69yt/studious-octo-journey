@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-25 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 21:31:55 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-06-25 22:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-25 22:39:18 +0000"
     },
     "done": true
   },
@@ -232,6 +244,12 @@
       "has_copper_ingot": "2025-06-25 22:07:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-25 22:37:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
@@ -461,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-25 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-25 21:44:03 +0000"
@@ -475,7 +499,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:stray": "2025-06-25 22:26:08 +0000"
+      "minecraft:stray": "2025-06-25 22:26:08 +0000",
+      "minecraft:spider": "2025-06-25 22:39:22 +0000"
     },
     "done": false
   },
@@ -732,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-25 22:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 21:31:55 +0000"
@@ -765,6 +796,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-25 21:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-25 22:37:18 +0000"
     },
     "done": true
   },
